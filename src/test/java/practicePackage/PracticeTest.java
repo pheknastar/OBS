@@ -11,6 +11,6 @@ public class PracticeTest{
 
 	@Test()
 	public void ScriptTest2() {
-		System.out.println("-- test 2 is executing--");
+		System.out.println("-- test 2 is executing --");
 	}
 }
