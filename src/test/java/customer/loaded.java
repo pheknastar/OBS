@@ -1,8 +1,8 @@
 package customer;
 
-public class loadad {
+public class loaded {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.println("hello123");
 	}
 }
