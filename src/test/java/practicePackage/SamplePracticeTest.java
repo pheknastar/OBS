@@ -6,7 +6,7 @@ public class SamplePracticeTest{
 	
 	@Test(groups = {"smoke","regression"})
 	public void ScriptTest3() {
-		System.out.println("-- test 3 is executing --");
+		System.out.println("-- paneer handi--");
 	}
 
 	@Test(groups = "smoke")
