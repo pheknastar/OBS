@@ -6,6 +6,6 @@ public class CreateTest {
 
 	@Test
 	public void createTest() {
-		System.out.println("Garammasala");
+		System.out.println("chicken biryani");
 	}
 }
