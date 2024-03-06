@@ -11,6 +11,6 @@ public class SamplePracticeTest{
 
 	@Test(groups = "smoke")
 	public void ScriptTest4() {
-		System.out.println("-- test 4 is executing --");
+		System.out.println("-- tara pg food --");
 	}
 }
