@@ -6,7 +6,7 @@ public class PracticeTest{
 
 	@Test(groups = "smoke")
 	public void ScriptTest1() {
-		System.out.println("-- test 1 is executing --");
+		System.out.println("-- test 1 is executing new --");
 	}
 
 	@Test()
