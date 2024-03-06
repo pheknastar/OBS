@@ -6,6 +6,6 @@ public class CreateTest {
 
 	@Test
 	public void createTest() {
-		System.out.println("create1");
+		System.out.println("Garammasala");
 	}
 }
