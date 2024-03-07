@@ -6,6 +6,6 @@ public class CreateTest {
 
 	@Test
 	public void createTest() {
-		System.out.println("aloo Chat");
+		System.out.println("palak saag");
 	}
 }
