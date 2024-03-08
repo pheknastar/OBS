@@ -9,7 +9,7 @@ public class PracticeTest{
 		System.out.println("-- test 1 is executing --");
 	}
 
-	@Test()
+	@Test(groups = "regression")
 	public void ScriptTest2() {
 		System.out.println("-- test 2 is executing --");
 	}
